@@ -13,9 +13,8 @@ My portfolio built with pure HTML, CSS, and JavaScript.
 ## Features
 
 - **Responsive Design**: Mobile-first approach with CSS Grid/Flexbox
-- **Performance**: x/100 Lighthouse score
+- **Performance**: 82/100 Lighthouse score
 - **Modern Interactions**: Smooth scroll, hover effects, and theme toggle
-- **Project Showcase**: Filterable grid with case studies
 - **SEO Optimized**: Semantic HTML and meta tags
 
 ## Technologies Used
